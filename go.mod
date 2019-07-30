@@ -1,3 +1,3 @@
-module github.com/influxdata/influxdb1-client
+module github.com/wcalandro/influxdb1-client
 
 go 1.12
